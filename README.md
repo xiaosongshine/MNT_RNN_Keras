@@ -1,7 +1,8 @@
 ## MNT_RNN_Keras
 
-#Test Result
+# Test Result
 
+```bash
 > I can understand you to some extent .
 < 在 某种程度 上 我 能 了解 你 。
 
@@ -61,3 +62,4 @@
 
 > I don't like the way you talk to me .
 < 我 不 喜欢 你 和 我 说话 的 口气 。
+```
