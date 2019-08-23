@@ -1,5 +1,5 @@
 ## MNT_RNN_Keras
-
+blog : https://blog.csdn.net/xiaosongshine/article/details/99843848
 # Test Result
 
 ```bash
